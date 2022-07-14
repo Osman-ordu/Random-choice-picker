@@ -1,1 +1,1 @@
-# https://osman-ordu.github.io/randomchoicepicker/
+# https://osman-ordu.github.io/Random-choice-picker/
